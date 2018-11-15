@@ -1,3 +1,8 @@
+Edit 13/05/2017
+I only Edited the program so it's possible to be used on a modern SenseHAT
+
+
+
 #AstroPi Snake
 ##Martin O'Hanlon (martin@ohanlonweb.com)
 ##http://www.stuffaboutcode.com
